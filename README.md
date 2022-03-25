@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ### About
 Inversion of coseismic slip models for tensorial pre-earthquake stress through a Bayesian Monte Carlo Markov Chain estimation strategy.
 Please see Walbert & Hetland (2022) for a description about our non-informative priors, likelihood function and parameterization of the stress tensor that is incorporated in this code.
