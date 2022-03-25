@@ -1,0 +1,3 @@
+These files are used by the Bayesian MCMC to provide the fault geometry uncertainties and uncertainty on rake determined from the slip model.
+If using new fault geometries, you will need to precompute the Jacobians for error propagation; see the precomputeJacobiansFx subdirectory for details.
+While the test files are simplistic, they can serve as a template. Please reference Walbert & Hetland (2022) for more information.
