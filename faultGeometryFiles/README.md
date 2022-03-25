@@ -1,0 +1,2 @@
+These files are used by the Bayesian MCMC to provide the fault geometries and potencies determined from the slip model.
+While the test files are simplistic, they can serve as a template. Please reference Walbert & Hetland (2022) for more information.

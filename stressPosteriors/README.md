@@ -1,0 +1,3 @@
+Outputs from running runFile.py will be saved in this subdirectory. Two text log files beginning with "lr_" and "runtimelogrw_" will be written to at check-points throughout the Random Walk. 
+Each check-point will write an .hdf5 file to this subdirectory.
+Following the completion of the random walk, the check-pointed files must be exported to a single .hdf5 file. Run exporth5.py in the postProcessing directory to complete this step. The exported file will be saved here.
