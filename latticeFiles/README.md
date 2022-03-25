@@ -1,0 +1,1 @@
+These lattice files are used by various scripts. Do not modify these. If you require a more or less dense lattice, please contact Olivia Walbert at the most recent email address listed.
