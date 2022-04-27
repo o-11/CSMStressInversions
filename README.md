@@ -18,4 +18,4 @@ Users can modify the input files read and the length of the random walk in runFi
 Please contact Olivia Walbert at ohelprin@umich.edu for questions and/or feedback.
 
 ### Cite
-If using this code, please cite Walbert & Hetland (2022).
+If using this code, please cite: Walbert, O. L., and E. A. Hetland (2022). Bayesian Inference of Seismogenic Stress for the 2016 Mw 7.8 Kaikōura, New Zealand, Earthquake, Bull. Seismol. Soc. Am. XX, 1–14, doi: 10.1785/0120210173.
